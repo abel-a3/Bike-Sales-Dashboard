@@ -1,4 +1,4 @@
-# 🚲 Bike Sales Dashboard – Excel-Based Business Intelligence Project
+# 🚲 Bike Sales Dashboard 
 
 This project showcases a business intelligence workflow using Microsoft Excel to analyze customer data and identify patterns in bike purchasing behavior. It combines data cleaning, segmentation, and dashboarding to deliver actionable insights.
 
